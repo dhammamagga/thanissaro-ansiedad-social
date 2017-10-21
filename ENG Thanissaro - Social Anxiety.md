@@ -1,6 +1,7 @@
-Social Anxiety  
+# Social Anxiety  
 
-September 10, 2005
+*September 10, 2005*  
+
 In one of Ajaan Lee's last Dhamma talks he compared life to taking a boat across an ocean. The problem out on the ocean is that there's no fresh water. For most of us meditation is like stopping in a port, picking up some fresh water, and putting it in the boat. Then we go out to sea and discover that we've run out of water, so we have to go back to port. As a result we don't get very far. If we're not careful, the winds will blow us away from the coast, and we'll find ourselves without any water at all.
 
 In other words, when we meditate we pick up a good sense of ease, a sense of inner refreshment. It's like stocking up on water. But then we take it out and we pour the water out our eyes and ears, all over the place. So we have to come back, meditate some more, get some more water — back and forth like this. We never really stock up on enough water to take us across the ocean. So an important lesson we have to learn is how not to pour the water out. What this means is learning how to maintain your center with the breath, inside the body, even when you go outside and deal with other people. This is one of the big issues in any meditator's life.
