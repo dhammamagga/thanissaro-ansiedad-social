@@ -12,4 +12,5 @@ ENG Thanissaro Bhikkhu - Social Anxiety.md
 **Mantener los números de línea ordenados.**
 ______________________________________________
 
+COMPLETADO @dhammamagga_ed
 
