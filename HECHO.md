@@ -9,6 +9,7 @@ ENG Thanissaro Bhikkhu - Social Anxiety.md
 * 1-50 @dhammamagga
 * 50-120 @jakata
 
-*Mantener los números de línea ordenados.*
+**Mantener los números de línea ordenados.**
+______________________________________________
 
 
