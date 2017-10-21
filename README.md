@@ -1,5 +1,16 @@
 # Como colaborar
 
+## Ficheros:  
+* **README.md**  
+Este fichero  
+* **HECHO.md**  
+Lleva un recuento de las partes en las que actualmente se está trabajando y quién lo está haciendo.  
+* **nombre_fichero.md**  
+Fichero de trabajo. Las traducciones se harán por párrafos, y se dejará la traducción al español a continuación del párrafo en el idioma original.  
+* **ESP nombre_fichero.md**  
+Finalizada la traducción contendrá el fichero final completo en español. No hay que tocarlo!
+
+## Flujo de trabajo en Github
 1.  Hacer una copia en tu cuenta (Fork).
 2.  Modificar el fichero HECHO.md añadiendo una nueva línea indicando la parte sobre la que se va a trabajar.
 3.  Hacer un petición de actualización para reflejar en HECHO.md la parte sobre la que estás trabajando (Pull request). 
@@ -7,10 +18,7 @@
   
 Para cambios pequeños o discusiones sobre términos se abrirá un tema en Issues.
 
-Se usará Markdown para el formato, tal como se usa en el documento original.  
-  
-  
-
+Se usará Markdown para el formato, tal cual esté en el documento original.  
 
 
 # Más información
