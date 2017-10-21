@@ -1,3 +1,3 @@
 # Summary
 
-* [Ansiedad social](Thanissaro Bhikkhu - Ansiedad social.md)
+* [Ansiedad social](ESP Thanissaro - ansiedad social.md)
