@@ -1,3 +1,3 @@
 # Summary
 
-* [Ansiedad social](ESP Thanissaro - ansiedad social.md)
+* [Ansiedad social](Thanissaro - ansiedad social.md)
