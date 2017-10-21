@@ -18,6 +18,9 @@ Se usará Markdown para el formato, tal como se usa en el documento original.
 ## Github Guide Basic
 https://guides.github.com/activities/hello-world/
 
+## Github Colaborate (Fork)
+https://guides.github.com/activities/forking/
+
 ## Github Guides
 https://guides.github.com/
 
