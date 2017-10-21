@@ -46,12 +46,6 @@ Especially when you can get your awareness to fill the whole body, when you get 
 Sobre todo cuando puedes hacer a tu atención llenar todo el cuerpo, cuando consigues que la respiración circule con fluidez por todo el cuerpo: esta circulación de energía levanta una especie de campo de fuerza. Una representación en el Canon es el meditador que es capaz de llenar su cuerpo con la atención es como una puerta de madera sólida. Si coges un ovillo y lo lanzas a la puerta no hará ningún tipo de marca. La mente llena con la atención, con la energía de la respiración circulando fluidamente, es lo mismo. Es sólida. Resite las influencias externas. 
 
 
-
-
-
-
-
-
 But when your awareness doesn't fill the body like this, the Buddha says it's like a ball of wet clay into which somebody throws a stone. The stone makes a big dent in the clay. In other words, you're in a weak position, and you intuitively know you're in a weak position. Other people can invade your inner space. So you scramble around and try to build up all sorts of defenses. Because so much energy gets spent in the defenses, and the energy is outside the body, it knocks you off balance. You use up the water of your meditation, the refreshment of your meditation, very quickly this way.
 
 The trick, as Ajaan Lee says, is to have a little distillery in the boat so that you can take the salt water and put it into the distillery, to turn it into fresh water. Then everywhere you go you've got fresh water. In other words, no matter where you go, you're right here: centered in the body, with your awareness filling the body. You're not leaving the body unprotected and you're not using up all your energy in those false outside defenses. You're creating a sense of energy here in the body, a sense of refreshment, and it's protecting you as well. This way you can travel around the world because there's salt water everywhere. If you've got the skill, you can turn it into fresh water — as much fresh water as you want.
